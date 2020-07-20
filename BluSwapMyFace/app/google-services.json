@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193016615192",
+    "firebase_url": "https://eep-523.firebaseio.com",
+    "project_id": "eep-523",
+    "storage_bucket": "eep-523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193016615192:android:8b9b51dabcd8943bb50e6d",
+        "android_client_info": {
+          "package_name": "com.example.bluswapmyface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193016615192-m2cle6hiepv8nen8foc4p124nmsd43en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbxgoafBGg05r6j8Qb6ZCCICpdD7MvEGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193016615192-m2cle6hiepv8nen8foc4p124nmsd43en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
